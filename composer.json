@@ -1,5 +1,5 @@
 {
     "require": {
-        "matyhtf/swoole_framework": "dev-master"
+        "matyhtf/swoole_framework": "2.0.0"
     }
 }
